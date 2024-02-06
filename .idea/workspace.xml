@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c62f1fe9-3dae-4d73-b78d-af030c82db20" name="Changes" comment="Ajustar código" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2br1LCyn9Kb1crUTPhOvElc2XIJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/danfa/Desktop/Grado superior/año 2/Practicas presenciales/1 cuatri/Procesos/rastreadorWeb"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.svalero.search.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\richa\OneDrive\Escritorio\Practicas Presenciales Segundo\rastreadorWeb\src\main\resources\com.svalero.search\target\file" />
+      <recent name="C:\Users\richa\OneDrive\Escritorio\Practicas Presenciales Segundo\rastreadorWeb\src\main\java\com\svalero\search" />
+      <recent name="C:\Users\richa\OneDrive\Escritorio\Practicas Presenciales Segundo\rastreadorWeb\src\main\resources\com.savlero.search" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\richa\OneDrive\Escritorio\Practicas Presenciales Segundo\rastreadorWeb\src\main\resources\com.svalero.search\target\file" />
+      <recent name="C:\Users\richa\OneDrive\Escritorio\Practicas Presenciales Segundo\rastreadorWeb\src\main\resources\com.svalero.search" />
+      <recent name="C:\Users\richa\OneDrive\Escritorio\Practicas Presenciales Segundo\rastreadorWeb\src\main\resources\com.savlero.search" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.svalero.search.utils" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c62f1fe9-3dae-4d73-b78d-af030c82db20" name="Changes" comment="" />
+      <created>1706958328469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706958328469</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Logica general programa">
+      <created>1706965239957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706965239957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Logica general programa">
+      <created>1706965279942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706965279942</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completar programa">
+      <created>1706979976256</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706979976256</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ajustar código">
+      <created>1706981118815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706981118815</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Logica general programa" />
+    <MESSAGE value="Completar programa" />
+    <MESSAGE value="Ajustar código" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustar código" />
+  </component>
+</project>
